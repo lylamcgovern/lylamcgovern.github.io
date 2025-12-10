@@ -1,0 +1,17 @@
+
+lylamcgovern.github.io/
+├── index.html
+├── about.html
+├── projects.html
+├── resume.html
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── scripts.js
+│   └── images/
+│       ├── profile.jpg          <-- replace with your photo
+│       ├── project1.jpg
+│       └── journey-poster.jpg
+├── references.txt
+└── design-report.md             <-- export to PDF for submission
